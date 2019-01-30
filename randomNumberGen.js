@@ -6,7 +6,7 @@ var myRandomNumber = function(length) {
        }
         return text; 
      }
-     var rs = myRandomNumber(8); 
+     var rs = myRandomNumber(2); 
      console.log("This is my new random number: " + rs); 
 
 
